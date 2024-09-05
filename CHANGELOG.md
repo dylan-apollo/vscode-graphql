@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2.2.1
+
+### Patch Changes
+
+- [#190](https://github.com/apollographql/vscode-graphql/pull/190) [`ec1e9927`](https://github.com/apollographql/vscode-graphql/commit/ec1e9927a178e75cae21d795d47426f40bf9d27b) Thanks [@phryneas](https://github.com/phryneas)! - Fix a bug that prevented `skipSSLValidation` from working.
+
 ## 2.2.0
 
 ### Minor Changes
